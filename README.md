@@ -178,14 +178,6 @@ disp('Analysis Complete.');
 
 The following figures show real-time over-the-air channel estimation using NI USRP-2901.
 
-### 📌 Channel Gain Distribution
-![CIR](Screenshot%20(630).png)
-
-### 📌 Histogram of Channel Gains
-![Frequency Response](Screenshot%20(631).png)
-
-### 📌 Channel Gain Distribution
-![Signal](Screenshot%20(632).png)
 
 
 ### 📌 Channel Gain Variation

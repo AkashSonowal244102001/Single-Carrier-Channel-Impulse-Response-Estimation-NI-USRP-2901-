@@ -46,16 +46,10 @@ Since the transmitted signal is an impulse, the received signal directly represe
 * Transmitted continuously using NI-USRP Tx blocks in LabVIEW
 
 Impulse duration:
-
-[
-T_{pulse} = \frac{5}{10^6} = 5 \text{ microseconds}
-]
+Tp= 5 micro seconds
 
 Effective bandwidth:
-
-[
-B \approx \frac{1}{T_{pulse}} \approx 200 \text{ kHz}
-]
+Bw= 200khz
 
 ---
 
